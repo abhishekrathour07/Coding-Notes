@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JavaScript Essentials",
+      "slug": "javascript-essentials",
+      "description": "Learn the basics of JavaScript, the essential language for web development, with this comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 2,
+      "title": "Python for Beginners",
+      "slug": "python-for-beginners",
+      "description": "Start your coding journey with foundational Python skills taught by expert instructors.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/python.png"
+    },
+    {
+      "id": 3,
+      "title": "Advanced React Techniques",
+      "slug": "advanced-react-techniques",
+      "description": "Enhance your front-end skills with advanced techniques for building dynamic web applications in React.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/react.png"
+    },
+    {
+      "id": 4,
+      "title": "Full-Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Master full-stack development with comprehensive coverage of front-end and back-end skills.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 5,
+      "title": "Data Science with Python",
+      "slug": "data-science-with-python",
+      "description": "Learn the art of data analysis and visualization using Python, tailored for all skill levels.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning Fundamentals",
+      "slug": "machine-learning-fundamentals",
+      "description": "Dive into machine learning with this introductory course on algorithms, data processing, and model training.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 7,
+      "title": "Web Design Essentials",
+      "slug": "web-design-essentials",
+      "description": "Learn the essentials of web design, including UI/UX principles and responsive layouts.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 8,
+      "title": "DevOps Foundations",
+      "slug": "devops-foundations",
+      "description": "Learn the fundamentals of DevOps, from CI/CD pipelines to automation tools and workflows.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Basics",
+      "slug": "cybersecurity-basics",
+      "description": "Explore the fundamentals of cybersecurity, covering key concepts in data protection and network security.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 10,
+      "title": "Cloud Computing with AWS",
+      "slug": "cloud-computing-with-aws",
+      "description": "Discover cloud computing with AWS to develop, deploy, and scale applications in the cloud.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/javascript.png"
+    }
+  ]
+}
