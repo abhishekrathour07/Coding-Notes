@@ -9,8 +9,8 @@ function AboutUs() {
     const aboutUsData = {
 
         title: " About Us",
-        intro: "Welcome to CodingNotes, your trusted partner in mastering the art of coding and development.Our mission is to provide accessible, quality resources to help you thrive in the world of programming.",
-        motive: "At CodingNotes, we believe that coding is for everyone. We strive to empower learners through interactive courses , personalized learning paths, and a supportive community.",
+        intro: "Welcome to NotesTherapy, your trusted partner in mastering the art of coding and development.Our mission is to provide accessible, quality resources to help you thrive in the world of programming.",
+        motive: "At NotesTherapy, we believe that coding is for everyone. We strive to empower learners through interactive courses , personalized learning paths, and a supportive community.",
         subTitle: "Developer",
         aboutDev: 'I am a dedicated final-year BCA student with a strong passion for web development. Specializing in creating user-friendly websites, I have successfully built projects like "Coding Notes," which serves as a valuable resource for fellow students.',
         name: "Abhishek Singh",

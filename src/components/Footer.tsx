@@ -7,7 +7,7 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-          At CodeWave Academy, we transform beginners into tech professionals with hands-on, expert-led coding courses. Our mission is to make quality tech education accessible, equipping you with the skills to thrive in a digital world. Join us to kickstart your coding journey!
+          At NotesTherapy Academy, we transform beginners into tech professionals with hands-on, expert-led coding courses. Our mission is to make quality tech education accessible, equipping you with the skills to thrive in a digital world. Join us to kickstart your coding journey!
           </p>
         </div>
         <div>
