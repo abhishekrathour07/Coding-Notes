@@ -75,7 +75,7 @@ function Footer() {
           <p>Banglore, India</p>
           <p>banglore 560090</p>
           <p>Email: singhrathourabhishek7@gmail.com</p>
-          <p>Phone: </p>
+          <p>Phone:+91 93348-24703 </p>
         </div>
         </div>
         <p className="text-center text-xs pt-8">© 2024 coding School. All rights reserved.</p>

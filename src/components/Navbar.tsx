@@ -21,35 +21,38 @@ function Navbar({ className }: { className?: string }) {
         <MenuItem
           setActive={setActive} active={active} item="Our Courses"
         >
-          <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/courses">All Notes</HoveredLink>
+          <div className="flex flex-col space-y-4 text-sm hover:text-teal-600">
             <HoveredLink href="/courses">
-              JavaScript
+              <p className="hover:text-teal-600">All Notes </p>
             </HoveredLink>
             <HoveredLink href="/courses">
-              React JS
+              <p className="hover:text-teal-600"> HTML5 </p>
+
             </HoveredLink>
-            <HoveredLink href="/courses">Songwriting</HoveredLink>
             <HoveredLink href="/courses">
-              Next JS
+              <p className="hover:text-teal-600">JavaScript </p>
+
             </HoveredLink>
+            <HoveredLink href="/courses">
+              <p className="hover:text-teal-600">React Js </p>
+
+            </HoveredLink>
+            <HoveredLink href="/courses">
+              <p className="hover:text-teal-600">Next js </p>
+
+            </HoveredLink>
+
           </div>
         </MenuItem>
         <MenuItem setActive={setActive} active={active} item="Contact Us">
-          <div className="flex flex-col space-y-4 text-sm">
+          <div className="flex flex-col space-y-4 text-sm ">
 
             <HoveredLink href="/contact">
-              <div className="flex gap-2 hover:text-teal-600 justify-center items-center">
-                <p >Support </p>
-                <BadgeHelp />
-              </div>
+              <p className="hover:text-teal-600">Support </p>
 
             </HoveredLink>
             <HoveredLink href="/about">
-              <div className="flex gap-2 hover:text-teal-600 justify-center items-center">
-                <p >About </p>
-                <Code />
-              </div>
+              <p className="hover:text-teal-600">About </p>
             </HoveredLink>
           </div>
         </MenuItem>
