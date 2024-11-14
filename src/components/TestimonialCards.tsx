@@ -38,6 +38,12 @@ const codingNotesTestimonialsData = [
     name: 'Bhuwon Bhandari',
     title: 'Full-Stack Development Student',
   },
+  {
+    quote:
+      'The collaborative projects on this platform helped me apply my knowledge in real-world scenarios. An excellent choice for aspiring developers!',
+    name: 'Maaz',
+    title: 'data Science Student',
+  },
 ];
 
 
